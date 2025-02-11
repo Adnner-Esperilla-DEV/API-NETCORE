@@ -31,8 +31,9 @@ Este documento describe los pasos necesarios para configurar y ejecutar la API E
 4. Ejecuta el siguiente comando para actualizar la base de datos:
    ```powershell
    update-database
-### 1️⃣ Establecer el Proyecto de API
+### 2️⃣Establecer el Proyecto de API
 
 1. En el explorador de soluciones, **haz clic derecho** sobre el proyecto `ESPERILLA.WebApi`.
 2. Selecciona **"Establecer como proyecto de inicio"**.
 3. Ejecutar el Proyecto
+
