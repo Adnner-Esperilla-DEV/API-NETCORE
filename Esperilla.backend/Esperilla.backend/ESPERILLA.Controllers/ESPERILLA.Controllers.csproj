@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESPERILLA.UseCases.DTOs\ESPERILLA.UseCases.DTOs.csproj" />
+    <ProjectReference Include="..\ESPERILLA.UseCases.InputPort\ESPERILLA.UseCases.InputPort.csproj" />
+    <ProjectReference Include="..\ESPERILLA.UseCases.OutputPort\ESPERILLA.UseCases.OutputPort.csproj" />
+  </ItemGroup>
+
+</Project>

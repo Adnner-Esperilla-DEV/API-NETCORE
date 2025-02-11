@@ -1,0 +1,15 @@
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\bin\Debug\net8.0\ESPERILLA.UseCases.InputPort.deps.json
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\bin\Debug\net8.0\ESPERILLA.UseCases.InputPort.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\bin\Debug\net8.0\ESPERILLA.UseCases.InputPort.pdb
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\bin\Debug\net8.0\ESPERILLA.UseCases.DTOs.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\bin\Debug\net8.0\ESPERILLA.UseCases.DTOs.pdb
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.csproj.AssemblyReference.cache
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.GeneratedMSBuildEditorConfig.editorconfig
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.AssemblyInfoInputs.cache
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.AssemblyInfo.cs
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.csproj.CoreCompileInputs.cache
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILL.639B26C7.Up2Date
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\refint\ESPERILLA.UseCases.InputPort.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ESPERILLA.UseCases.InputPort.pdb
+J:\Esperilla.backend\ESPERILLA.UseCases.InputPort\obj\Debug\net8.0\ref\ESPERILLA.UseCases.InputPort.dll

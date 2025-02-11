@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESPERILLA.UseCases.DTOs\ESPERILLA.UseCases.DTOs.csproj" />
+    <ProjectReference Include="..\ESPERILLA.UseCases.Interface\ESPERILLA.UseCases.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

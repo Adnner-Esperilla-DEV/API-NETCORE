@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K5Vx43cUzcU=",
+  "success": true,
+  "projectFilePath": "D:\\TRABAJOS\\PRUEBAS\\API-NETCORE\\Esperilla.backend\\Esperilla.backend\\ESPERILLA.UseCases.Interactor\\ESPERILLA.UseCases.Interactor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AFVL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

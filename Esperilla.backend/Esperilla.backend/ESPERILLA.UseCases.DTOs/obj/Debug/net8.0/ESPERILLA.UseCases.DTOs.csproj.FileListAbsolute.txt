@@ -1,0 +1,11 @@
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\bin\Debug\net8.0\ESPERILLA.UseCases.DTOs.deps.json
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\bin\Debug\net8.0\ESPERILLA.UseCases.DTOs.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\bin\Debug\net8.0\ESPERILLA.UseCases.DTOs.pdb
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.AssemblyInfoInputs.cache
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.AssemblyInfo.cs
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.csproj.CoreCompileInputs.cache
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\refint\ESPERILLA.UseCases.DTOs.dll
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ESPERILLA.UseCases.DTOs.pdb
+J:\Esperilla.backend\ESPERILLA.UseCases.DTOs\obj\Debug\net8.0\ref\ESPERILLA.UseCases.DTOs.dll

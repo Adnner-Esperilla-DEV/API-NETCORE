@@ -1,0 +1,11 @@
+J:\Esperilla.backend\ESPERILLA.Entities\bin\Debug\net8.0\ESPERILLA.Entities.deps.json
+J:\Esperilla.backend\ESPERILLA.Entities\bin\Debug\net8.0\ESPERILLA.Entities.dll
+J:\Esperilla.backend\ESPERILLA.Entities\bin\Debug\net8.0\ESPERILLA.Entities.pdb
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.AssemblyInfoInputs.cache
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.AssemblyInfo.cs
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.csproj.CoreCompileInputs.cache
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.dll
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\refint\ESPERILLA.Entities.dll
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ESPERILLA.Entities.pdb
+J:\Esperilla.backend\ESPERILLA.Entities\obj\Debug\net8.0\ref\ESPERILLA.Entities.dll

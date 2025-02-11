@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ESPERILLA.WebApi.props" />
+</Project>

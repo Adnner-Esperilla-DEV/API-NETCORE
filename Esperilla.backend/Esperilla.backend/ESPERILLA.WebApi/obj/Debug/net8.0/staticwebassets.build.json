@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sAkAfkvGDEKHDJuY3YYbtGEeCwxatme4nTfa5NdDlVQ=",
+  "Source": "ESPERILLA.WebApi",
+  "BasePath": "_content/ESPERILLA.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

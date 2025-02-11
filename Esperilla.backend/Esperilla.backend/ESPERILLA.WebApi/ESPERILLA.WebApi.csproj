@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESPERILLA.Controllers\ESPERILLA.Controllers.csproj" />
+    <ProjectReference Include="..\ESPERILLA.Gateways.SqlServer\ESPERILLA.Gateways.SqlServer.csproj" />
+    <ProjectReference Include="..\ESPERILLA.Presenters\ESPERILLA.Presenters.csproj" />
+    <ProjectReference Include="..\ESPERILLA.UseCases.Interactor\ESPERILLA.UseCases.Interactor.csproj" />
+    <ProjectReference Include="..\ESPERILLA.UseCases.Validator\ESPERILLA.UseCases.Validator.csproj" />
+  </ItemGroup>
+
+</Project>

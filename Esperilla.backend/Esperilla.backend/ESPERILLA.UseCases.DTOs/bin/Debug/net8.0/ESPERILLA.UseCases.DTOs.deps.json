@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ESPERILLA.UseCases.DTOs/1.0.0": {
+        "runtime": {
+          "ESPERILLA.UseCases.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESPERILLA.UseCases.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
